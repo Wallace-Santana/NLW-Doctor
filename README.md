@@ -28,6 +28,12 @@ DoctorCare um projeto e 100% responsivo para agendamento de consulta.
 - ESLint + Prettier + EditorConfig;
 - VS Code
 
+## 🔧 Tecnologias Visuais
+
+## Visualização do projeto pelo Figman (necessário conta para acessar)
+
+<p> https://www.figma.com/file/Fpv405WHuRapFiWvpvCevK/DoctorCare-(Community) </p>
+
 ## 🚀 **Em constante evolução...**
 
 ---
