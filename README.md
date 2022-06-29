@@ -12,7 +12,6 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71">
 
   <a href="https://github.com/Wallace-Santana">
-    <img alt="Made by Igor Thierry" src="https://img.shields.io/badge/Made%20by-Igor%20Thierry-2ecc71">
   </a>
 
 </p>
